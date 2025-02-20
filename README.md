@@ -1,4 +1,5 @@
 JavaScript do Zero ao Avançado 🚀
+
 Este repositório é um guia completo para aprender JavaScript, desde os conceitos básicos até tópicos avançados. Ele inclui teoria, exemplos práticos e desafios para reforçar o aprendizado.
 
 📌 O que você encontrará aqui?

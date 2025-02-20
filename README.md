@@ -1,4 +1,4 @@
-🚀 JavaScript do Zero ao Avançado \
+🚀 JavaScript do Zero ao Avançado 
 
 Este repositório é um guia completo para aprender JavaScript, desde os fundamentos até conceitos mais avançados.
 
